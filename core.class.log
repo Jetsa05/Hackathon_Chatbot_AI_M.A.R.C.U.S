@@ -1,0 +1,210 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5BDDBB8D7A95BABA02',
+    participant: undefined
+  },
+  messageTimestamp: 1717443197,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12517130-77b4-41a7-83ac-2943114bf202',
+  keyword: 'key_132b95d9-feef-4421-8ba2-d1a5d6e7efb2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6cd99a20f4647b271e49ed2d6efc184b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3B5366CDB299712BBF',
+    participant: undefined
+  },
+  messageTimestamp: 1717443202,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'agendar cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agendar cita',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12517130-77b4-41a7-83ac-2943114bf202',
+  keyword: 'key_132b95d9-feef-4421-8ba2-d1a5d6e7efb2',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6cd99a20f4647b271e49ed2d6efc184b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7290894250B2E17F31',
+    participant: undefined
+  },
+  messageTimestamp: 1717443208,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'mañana 20 hs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mañana 20 hs',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b1d40aac-7c23-4bbc-99fe-afe8f694c4b5',
+  keyword: 'ans_c2af9b53-f4ef-4c7a-967f-68a1fcaeeac7',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f96bce152b4055aa3900664f0849f7d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A37B808792A938B0B2D',
+    participant: undefined
+  },
+  messageTimestamp: 1717443220,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '447456094679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFB542EE6E4A8B404DB',
+    participant: undefined
+  },
+  messageTimestamp: 1717443225,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mati',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mati',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_be3702f0-06a7-478e-aa1c-1b08714b356b',
+  keyword: 'ans_80f3ca69-0abb-40b3-9612-7cf325b86bc5',
+  answer: 'Perfecto, ¿Cual es el motivo del turno?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3b3fbd086760775514c408e9735c4dcb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A551391B69F23ACE763',
+    participant: undefined
+  },
+  messageTimestamp: 1717443229,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_675e8339-5684-4655-9b5f-544b671983ec',
+  keyword: 'ans_be3702f0-06a7-478e-aa1c-1b08714b356b',
+  answer: 'Excelente! Ya cree la reunión. Te esperamos!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '416f3e694b820b8ca219476391e30134'
+}
