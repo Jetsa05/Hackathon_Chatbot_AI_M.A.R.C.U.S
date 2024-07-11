@@ -1,0 +1,768 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '6E93F618AE2B92285B22F75CFC6A017E',
+    participant: undefined
+  },
+  messageTimestamp: 1720491907,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola, agrega un evento por favor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola, agrega un evento por favor',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '7DBB6BBA9B81E0E9337A753F42FEAA4F',
+    participant: undefined
+  },
+  messageTimestamp: 1720491941,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Vamos a agendar un evento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vamos a agendar un evento',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '1244DA56044EE252C45EA4696C1ACF93',
+    participant: undefined
+  },
+  messageTimestamp: 1720491954,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Viernes a las 12 pm',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Viernes a las 12 pm',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9b3132e2-6bb1-4cc0-9e45-805193462092',
+  keyword: 'ans_19c45e31-2534-4d1f-b39d-4b432191704d',
+  answer: 'Revisando tu disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '84d305abe6caa7a2b924bf7b8c3f7ee0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'E696C3DF6839D69E4C49740F1A383DD8',
+    participant: undefined
+  },
+  messageTimestamp: 1720491963,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '50766069621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '70876E6B961754D09D382E8484FEA8FC',
+    participant: undefined
+  },
+  messageTimestamp: 1720491979,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Entregar proyecto de Física',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Entregar proyecto de Física',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_802ed96c-31a8-4a1d-aa2f-4ccf9c39081c',
+  keyword: 'ans_83aa1170-7d34-4313-845e-6f685e9f33db',
+  answer: 'Perfecto, Si hay algún otro detalle relevante para este evento, por favor indícalo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f5c1c0aa36ff5fd188390d1c1539f5a4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'EBB44F0798C571C5B99791C5DA521A2D',
+    participant: undefined
+  },
+  messageTimestamp: 1720491988,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aula 504',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aula 504',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f065cfb0-6a15-4e74-8dce-030abbc3e298',
+  keyword: 'ans_802ed96c-31a8-4a1d-aa2f-4ccf9c39081c',
+  answer: '¡Listo! He registrado el evento correctamente.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6686ff162afda9f25f34f1d673ee47c8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '4C206F3E33C87D721FB11973BE5498CB',
+    participant: undefined
+  },
+  messageTimestamp: 1720491992,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '1D43CB8FC40B918DEF2F404F0F051A0F',
+    participant: undefined
+  },
+  messageTimestamp: 1720492000,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agenda otro evento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agenda otro evento',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '80FCE33249629FBA8DDDDCE748194A67',
+    participant: undefined
+  },
+  messageTimestamp: 1720492020,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Configura una reunión',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Configura una reunión',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '9CE8FD92EDC26BC37D63AC19A5B3C200',
+    participant: undefined
+  },
+  messageTimestamp: 1720492042,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😮',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '50766069621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'F111E49B0E76A82144B087FDEF30F6EB',
+    participant: undefined
+  },
+  messageTimestamp: 1720492100,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Calcula mi porcentaje de parciales de física por favor, parciales equivale al 35%, en el primer parcial saque 85 en el segundo 90 y en el tercero 78',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Calcula mi porcentaje de parciales de física por favor, parciales equivale al 35%, en el primer parcial saque 85 en el segundo 90 y en el tercero 78',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '43971D21E9521BA441CC06EAF749CF06',
+    participant: undefined
+  },
+  messageTimestamp: 1720492133,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y eso en base al 35% cuánto es?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y eso en base al 35% cuánto es?',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA13DB1CCBF3CE3BCBA2E2E1EEE5E348',
+    participant: undefined
+  },
+  messageTimestamp: 1720492152,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage { key: [MessageKey], type: 0 },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '50766069621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD740F18262E4FE28974A181427D3BD5',
+    participant: undefined
+  },
+  messageTimestamp: 1720492195,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ayúdame a sabes cuánto esi porcentaje en parciales, parciales equivale al 35%, en el primer parcial saque 85, en el segundo 80 y en el tercero 82',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ayúdame a sabes cuánto esi porcentaje en parciales, parciales equivale al 35%, en el primer parcial saque 85, en el segundo 80 y en el tercero 82',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '67C404F82CD260020B99DA0822A8F222',
+    participant: undefined
+  },
+  messageTimestamp: 1720492229,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'No, eso es todo por hoy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No, eso es todo por hoy',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '449B35D947F5F079BE0667839998223D',
+    participant: undefined
+  },
+  messageTimestamp: 1720492296,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ayúdame a calcular mi porcentaje de parciales en física, parciales equivale al 35%, en el primer parcial saque 85, en el segundo 78 y en el tercero 82',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ayúdame a calcular mi porcentaje de parciales en física, parciales equivale al 35%, en el primer parcial saque 85, en el segundo 78 y en el tercero 82',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: 'FB61CF9B8EFDAEDD5D37D72BE7C4DA4E',
+    participant: undefined
+  },
+  messageTimestamp: 1720492320,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si, gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si, gracias',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '8343193A3D0CDF99D70B9A1CD925D842',
+    participant: undefined
+  },
+  messageTimestamp: 1720492369,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Vamos a agendar otro evento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vamos a agendar otro evento',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc01ddc8-7999-4c4d-b5b9-dc97e6daa13e',
+  keyword: 'key_dd5757af-acf1-4a08-b5b3-d66341f6c370',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8b6b0c5d5dbd426fb6dda763f89dca37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '19D3A8C175C11EA70A62658C63064445',
+    participant: undefined
+  },
+  messageTimestamp: 1720492381,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Miércoles a las 7 pm',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Miércoles a las 7 pm',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9b3132e2-6bb1-4cc0-9e45-805193462092',
+  keyword: 'ans_19c45e31-2534-4d1f-b39d-4b432191704d',
+  answer: 'Revisando tu disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '84d305abe6caa7a2b924bf7b8c3f7ee0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '73691B852C2042A7CD3AB9BAAC8BFF47',
+    participant: undefined
+  },
+  messageTimestamp: 1720492393,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '50766069621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '27259913C3C992DEE651B32311DB9B06',
+    participant: undefined
+  },
+  messageTimestamp: 1720492403,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Preparación semestral de Edo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Preparación semestral de Edo',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_802ed96c-31a8-4a1d-aa2f-4ccf9c39081c',
+  keyword: 'ans_83aa1170-7d34-4313-845e-6f685e9f33db',
+  answer: 'Perfecto, Si hay algún otro detalle relevante para este evento, por favor indícalo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f5c1c0aa36ff5fd188390d1c1539f5a4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50766069621@s.whatsapp.net',
+    fromMe: false,
+    id: '388ABDA33B51BDEBE4E5C59942288DCD',
+    participant: undefined
+  },
+  messageTimestamp: 1720492413,
+  pushName: '~Jetsa~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Llevar la calculadora y las fórmulas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Llevar la calculadora y las fórmulas',
+  from: '50766069621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f065cfb0-6a15-4e74-8dce-030abbc3e298',
+  keyword: 'ans_802ed96c-31a8-4a1d-aa2f-4ccf9c39081c',
+  answer: '¡Listo! He registrado el evento correctamente.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6686ff162afda9f25f34f1d673ee47c8'
+}
